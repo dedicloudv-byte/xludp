@@ -1,17 +1,3 @@
-# Zivpn UDP Auto Install Script - Enhanced Version
-
-> **Zivpn UDP Auto Installer** adalah script instalasi otomatis yang telah ditingkatkan untuk Zivpn UDP VPN server dengan fitur keamanan, deteksi sistem otomatis, dan error handling yang lebih baik.
-
-## 🚀 Fitur
-
-### ✅ Fitur Utama
-- **Deteksi Arsitektur Otomatis** - AMD64 dan ARM64
-- **Instalasi One-Command** - Mudah dan cepat
-- **Error Handling** - Validasi dan penanganan error yang komprehensif
-- **Security Hardened** - Konfigurasi keamanan yang optimal
-- **Service Management** - Otomatisasi systemd service
-- **Firewall Configuration** - Konfigurasi firewall otomatis
-- **Logging** - Logging lengkap untuk troubleshooting
 
 ### 🔧 Fitur Tambahan
 - **Backup Configuration** - Backup otomatis config lama
